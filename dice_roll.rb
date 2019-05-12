@@ -1,4 +1,4 @@
 
 def roll
-random.rand(6)
+Random.rand(6)
 end
